@@ -16,4 +16,10 @@ auto 200 if [$hppc <= 80] { useoncreature 3156 self }
     - https://labex.io/learn/linux
     - https://dometrain.com/course/hands-on-csharp-for-beginners/
 
+### Personal interest
+
+- Nutrition & Health
+- Gym & Bodybuilding
+- Psychology
+
 
