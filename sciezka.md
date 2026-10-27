@@ -22,6 +22,8 @@ auto 200 if [$hppc <= 80] { useoncreature 3156 self }
 - **Gym & Bodybuilding**
 - **Psychology**
 
+---
+
 ## ***Daily Plan***
 I've noticed that I work best if my days look the same or at least simmilar to some degree. To make sure I follow my development plan I have came up with daily schedule that looks something like below:
 
